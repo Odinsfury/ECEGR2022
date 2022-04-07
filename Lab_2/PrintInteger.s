@@ -11,3 +11,4 @@ main:			# Start of code section
 	ecall		# print it
 	
 # END OF PROGRAM
+

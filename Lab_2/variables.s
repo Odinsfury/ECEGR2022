@@ -51,3 +51,4 @@ main:       # Start of code section
     ecall
 
 # END OF PROGRAM
+

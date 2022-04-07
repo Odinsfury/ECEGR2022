@@ -104,6 +104,3 @@ diagSumLoop:
 
     mv	a0, t0
     ret
-
-
-
