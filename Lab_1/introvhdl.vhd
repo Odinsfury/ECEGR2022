@@ -18,3 +18,4 @@ BEGIN
 		E <= (A OR B) AND (C OR D);
 END architecture behavior;
 
+
